@@ -1,0 +1,81 @@
+body{
+    background-color:#1A1A4B;
+}
+.fs-4{
+    color: #E0E0E0;
+}
+.subhead{
+    color:#E0E0E0 ;
+    padding-right: 100px;
+}
+.carousel-inner{
+    width: 90%;
+    margin-left: 60px;    
+    margin-top: 20px;
+}
+p{
+    color: #E0E0E0;
+}
+h2{
+    color: burlywood;
+}
+
+h1{
+    color: burlywood;
+}
+
+.founders{
+    border-radius: 50%;
+    height: 150px;
+}
+
+.university-footer {
+    color: #E0E0E0;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-info {
+    margin-bottom: 20px;
+}
+
+.footer-info h3 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.footer-info p {
+    margin: 5px 0;
+}
+
+.footer-social {
+    margin: 20px 0;
+}
+
+.footer-social h4 {
+    margin: 10px 0;
+}
+
+
+.footer-social a:hover {
+    color: #ffdd57; /* Change color on hover */
+}
+
+.footer-bottom {
+    border-top: 1px solid #444;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+
+.footer-bottom p {
+    margin: 0;
+    font-size: 14px;
+    color: #E0E0E0;
+}
