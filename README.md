@@ -1,2 +1,2 @@
 # Acumen-University
-One of the most searched university
+Welcome to the Acumen University, a fictional institution created solely for the purpose of completing academic projects and exercises. This university does not exist in the real world; rather, it serves as a conceptual framework for exploring educational themes, developing innovative ideas, and conducting research in a simulated environment. While the Acumen University may not offer degrees or courses, it provides a unique opportunity to experiment with concepts and methodologies in a supportive and imaginative setting.
